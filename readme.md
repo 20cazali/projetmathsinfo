@@ -1,1 +1,1 @@
- projet maths readme
+ projet maths/info Alexis SISCA & Paul CAZALI
